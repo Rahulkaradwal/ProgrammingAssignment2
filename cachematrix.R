@@ -48,3 +48,4 @@ m <- solve(data) %*% data
 x$setInverse(m)
 m  
 }
+## End of the Code
